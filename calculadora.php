@@ -6,51 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calculadora patriota</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <style>
-       body {
-            background-color: green;
-            color: yellow;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 2px;
-            padding: 2px;
-            height: 80vh; 
-            display: flex; 
-            justify-content: center; 
-            align-items: center; 
-            
-        }
-
-
-        .calculadora {
-            background-color: blue;
-            padding: 80px;
-            border-radius: 25px;
-            margin: 50px auto;
-            width: 500px;
-        }
-        input, select, button {
-            padding: 15px;
-            margin: 10px;
-            border-radius: 5px;
-            border: none;
-            background-color: green;
-            color: black;
-            width: 80px;
-        }
-        button:hover {
-            background-color: yellow;
-            cursor: pointer;
-        }
-        input[type="text"] {
-            width: 80px;
-            text-align: center;
-        }
-        .history {
-            text-align: center;
-            margin-top: 5px;
-        }
-    </style>
+    
 </head>
 <body>
     <div class="calculadora">
